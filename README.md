@@ -19,7 +19,7 @@ Then there are 3 nodes written in python:
 **Commands to run the code**
 Please run the code in Ubuntu, using the following commands:
 - cd [workspace]/src
-- git clone https://github.com/palmieri/srl_dstar_lite.git
+- git clone https://github.com//.git
 - cd ../
 - roscore
 - cd simulation_ws
