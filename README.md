@@ -34,4 +34,6 @@ Please run the code in Ubuntu, using the following commands:
 
 ![](https://github.com/Faty-Z/Strategy_v1_gazebo/blob/main/simulation.png)
 
+**Fatima-ezzahrae EZZINE**
+
 <Fatima-ezzahrae EZZINE>
