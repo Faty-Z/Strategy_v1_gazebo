@@ -31,3 +31,4 @@ Please run the code in Ubuntu, using the following commands:
 
 
 **Robotech**
+!(https://github.com/Faty-Z/Strategy_v1_gazebo/blob/main/simulation.png)
