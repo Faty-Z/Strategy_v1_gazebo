@@ -16,3 +16,5 @@ catkin_make source devel/setup.bash
 roslaunch m4wr_description rviz.launch 
 roslaunch m4wr_description spawn.launch 
 rosrun gazebo_ros gazebo
+
+EZZINE
