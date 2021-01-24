@@ -1,0 +1,2 @@
+Playground_game:m4wr_description
+-DCATKIN_DEVEL_PREFIX=/home/ezzine/Bureau/fatima-project/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ezzine/Bureau/fatima-project/simulation_ws/install -G Unix Makefiles

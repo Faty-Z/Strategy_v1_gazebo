@@ -1,0 +1,8 @@
+prefix=/home/ezzine/Bureau/fatima-project/simulation_ws/devel
+
+Name: m4wr_description
+Description: Description of m4wr_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

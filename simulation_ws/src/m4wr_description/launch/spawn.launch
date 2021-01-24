@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!--CONVERT the .xacro file into a .urdf using python command-->
+    <param name="robot_description" command="xacro '$(find m4wr_description)/urdf/m4wr.xacro'" />
+    
+    <arg name="x" default="0"/>
+    <arg name="y" default="0"/>
+    <arg name="z" default="0.5"/>
+    
+    <node name="mybot_spawn" pkg="gazebo_ros" type="spawn_model" output="screen"
+          args="-urdf -param robot_description -model m4wr -x $(arg x) -y $(arg y) -z $(arg z)" />
+          
+</launch>
